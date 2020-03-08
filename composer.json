@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ptlis/shell-command": "^1.0"
+    }
+}
